@@ -6,6 +6,8 @@
 	waiting() -> calculate total waiting time
 	turntime -> calculate turn around time
 	printData() -> print all process with waiting and turn around time in tabular form.
+	Process -> represent class of all process
+	FCFS -> represent class of all operation performed on FCFS process	
 '''
 
 class Process:
